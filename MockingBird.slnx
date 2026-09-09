@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MockingBird.Middleware/MockingBird.Middleware.csproj" />
+    <Project Path="src/MockingBird.TestApi/MockingBird.TestApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MockingBird.Middleware.Tests/MockingBird.Middleware.Tests.csproj" />
+  </Folder>
+</Solution>
